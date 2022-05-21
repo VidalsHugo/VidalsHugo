@@ -16,7 +16,7 @@
   
   <div> 
   <a href="https://www.instagram.com/viidalshugo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>      
-  <a href = "[vidalshugo1@gmail.com](https://mail.google.com/mail/u/1/#advanced-search/to=vidalshugo1%40gmail.com&query=in%3Asent&isrefinement=true&todisplay=Hugo+Vidal)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSGMSzZnbhpLdwTnhshwmlPMfxTgbnvNVTlFsqwCGcflNzCLxVfjrCVxVsmLfgvCwmjCzFDv"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/hugo-vidal-329654200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>

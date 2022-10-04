@@ -25,4 +25,4 @@
   ##
   
 - 🔭 Atualmente cursando Ciência da Computação na UFRRJ.
-- 🌱 Estudando HTML/CSS e JavaScript.
+- 🌱 Estudando HTML/CSS e JavaScript c/ Node JS e Java com Spring boot.

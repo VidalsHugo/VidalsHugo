@@ -5,6 +5,7 @@
 </div>
 
  <div style="display: inline_block"><br>
+  <img align="center" alt="Hugo-C" height="60" width="60" src="https://institucional.ufrrj.br/ccs/files/2019/06/rural_logo03.png">
   <img align="center" alt="Hugo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Hugo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Hugo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">

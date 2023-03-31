@@ -30,7 +30,7 @@
   ##
   <ul> 
     <li>🔭 Atualmente cursando Ciência da Computação na UFRRJ.</li>
-    <li>🌱 Estudando .NET com C#.</li>
+    <li>🌱 Estudando .NET com C# / SQL SERVER.</li>
     <li>📚 Sempre empenhado em estudar mais.</li>
     <li>👨‍💻A procura de uma oportunidade de trabalho na área Dev.</li>
   </ul>

@@ -33,5 +33,4 @@
     <li>🔭 Atualmente cursando Ciência da Computação na UFRRJ.</li>
     <li>🌱 Estudando Python/Banco de dados atualmente</li>
     <li>📚 Sempre empenhado em estudar mais.</li>
-    <li>👨‍💻A procura de uma oportunidade de trabalho na área Dev.</li>
   </ul>

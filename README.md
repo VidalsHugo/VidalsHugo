@@ -31,6 +31,6 @@
   ##
   <ul> 
     <li>🔭 Atualmente cursando Ciência da Computação na UFRRJ.</li>
-    <li>🌱 Estudando Python/Banco de dados atualmente</li>
+    <li>🌱 Estudando Python/Banco de dados...</li>
     <li>📚 Sempre empenhado em estudar mais.</li>
   </ul>

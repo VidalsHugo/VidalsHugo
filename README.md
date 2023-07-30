@@ -19,7 +19,6 @@
 </div>
   
    ##  
-  <img align="right" alt="Hugo-gif" src="https://i.picasion.com/pic92/163ecc0922d2175dbc3bbae25def7cd6.gif"> 
   <div> 
   <a href="https://www.instagram.com/viidalshugo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>      
   <a href = "https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSGMSzZnbhpLdwTnhshwmlPMfxTgbnvNVTlFsqwCGcflNzCLxVfjrCVxVsmLfgvCwmjCzFDv"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

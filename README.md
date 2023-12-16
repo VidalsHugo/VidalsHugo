@@ -30,6 +30,6 @@
   ##
   <ul> 
     <li>🔭 Atualmente cursando Ciência da Computação na UFRRJ.</li>
-    <li>🌱 Estudando Python/SAS...</li>
+    <li>🌱 Estudando Java/Spring Boot...</li>
     <li>📚 Sempre empenhado em estudar mais.</li>
   </ul>

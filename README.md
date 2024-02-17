@@ -14,8 +14,8 @@
   <img align="center" alt="Hugo-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Hugo-dotnet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Hugo-PY" height="45" width="50" src="https://user-images.githubusercontent.com/87623017/232349391-6e45b28d-8491-49e9-b7aa-526f6da048cf.png">
-  <img align="center" alt="Hugo-PY" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Hugo-PY" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg">
+  <img align="center" alt="Hugo-spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Hugo-adonisJS" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg">
 
    
 </div>

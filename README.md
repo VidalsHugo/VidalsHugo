@@ -31,6 +31,6 @@
   ##
   <ul> 
     <li>🔭 Atualmente cursando Ciência da Computação na UFRRJ.</li>
-    <li>🌱 Estudando Desenvolvimento Web...</li>
+    <li>🌱 Estudando Desenvolvimento Web e Análise de Dados...</li>
     <li>📚 Sempre empenhado em estudar mais.</li>
   </ul>
